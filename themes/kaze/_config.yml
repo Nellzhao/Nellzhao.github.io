@@ -1,11 +1,11 @@
 #------------------------
 # Header config
-title: 网站标题
-author: 作者名
+title: Nellzhao-Blog
+author: Nellzhao
 # 将你的qq替换上去即可让网站的头像显示你为你qq的头像
 logo_img: https://q2.qlogo.cn/headimg_dl?dst_uin=你的qq&spec=5
 author_img: https://q2.qlogo.cn/headimg_dl?dst_uin=你的qq&spec=5
-author_description: 描述
+author_description:  Nellzhao
 #------------------------
 # Navbar config
 #------------------------
@@ -183,7 +183,7 @@ lightbox:
 # we support eight highlight themes, you can go to prism website (https://prismjs.com) for more information
 # theme: default | coy | dark | funky | okaidia | solarizedlight | tomorrow | twilight
 prism:
-  theme: default
+  theme: 默认
   darkTheme: tomorrow
 # show the number of words in posts
 wordcount:
